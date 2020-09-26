@@ -1,4 +1,5 @@
 Advanced commands:
+
 Merging vs rebasing
 resetting, checking out and reverting
 Advanced git log
@@ -15,3 +16,5 @@ how to store dot files
 Git Cherry Pick
 GitK
 Git-show
+
+New version
